@@ -1,6 +1,6 @@
 
 ********************
-What is BitShares?
+Что такое BitShares
 ********************
 
 .. contents:: Table of Contents
