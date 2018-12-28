@@ -1,6 +1,6 @@
 
 **************************
-BitShares Documentation
+Документация BitShares
 **************************
 
 .. image:: bitshares-logo.png
@@ -10,12 +10,12 @@ BitShares Documentation
 		
 ----------
 
-.. centered:: **Welcome to the BitShares Documentation**
+.. centered:: **Добро пожаловать на портал документации BitShares**
 
 
-Welcome to the documentation portal for the BitShares Blockchain. The content on this page is managed by the BitShares community and is constantly improved.
+Добро пожаловать на портал документации блокчейна BitShares. Контент на этой странице управляется сообществом BitShares и постоянно совершенствуется.
 
-The purpose of this site is to provide in-depth documentation about the BitShares Blockchain and make it easier for users and developers to leverage the full power of the BitShares Blockchain.
+Цель этого сайта предоставить полную информацию о блокчейне BitShares и упростить пользователям и разработчикам использование всех возможностей блокчейн BitShares 
 
 
 
