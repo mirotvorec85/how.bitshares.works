@@ -1,7 +1,7 @@
 .. include:: README.rst
 
 .. toctree::
-    :caption: Technology
+    :caption: Технологии
     :maxdepth: 2
 
     technology/graphene
@@ -16,7 +16,7 @@
 .. toctree::
     :maxdepth: 2
     :numbered:
-    :caption: BTS Holders
+    :caption: BTS холдеры
 
     bts_holders/things_to_know	
     bts_holders/tokens
@@ -31,7 +31,7 @@
 .. toctree::
     :maxdepth: 2
     :numbered:
-    :caption: User Guide
+    :caption: Руководство
 
     user_guide/accounts/index_account
     user_guide/create_account
@@ -45,7 +45,7 @@
 	
 .. toctree::
     :maxdepth: 2
-    :caption: Resources
+    :caption: Ресурсы
 
     resources/info_comunities
     resources/info_external
